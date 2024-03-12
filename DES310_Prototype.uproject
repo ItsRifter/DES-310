@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "{8F4AEB7D-49E9-D726-E44E-9D960B914EC8}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DES310_Prototype",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
