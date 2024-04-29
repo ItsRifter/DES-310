@@ -1,7 +1,147 @@
-https://freesound.org/people/Zuzek06/sounds/353250/
-SlimeJump
+ANIMATIONS-------------------------------
 
-https://freesound.org/people/Reitanna/sounds/252265/
+Death.uasset
+Title - Death
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=death
+
+DownSwing.uasset
+Title - Standing melee Attack Downward
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=attack
+
+NewIdle.uasset
+Title - Idle
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=idle
+
+NewJogging.uasset
+Title - Jogging
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=jogging
+
+Rib_Hit.uasset
+Title - Rib Hit
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=rib+hit
+
+ScytheAttack.uasset, ScytheCombo.uasset
+Title - Standing Melee Combo Attack Ver 1
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=attack
+
+StabAttack.uasset
+Title - Bayonet Stab
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=stab
+
+GnomeRun.uasset
+Title - Goofy Running
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=Goofy+run
+
+GnomeDance.uasset
+Title - Breakdance footwork 2
+Owner - Mixamo
+License - Copyright © 2024 Adobe Systems Incorporated. All rights reserved.
+https://www.mixamo.com/#/?page=1&query=breakdance+footwork
+
+
+SOUND---------------------------------
+
+AmbientRain
+Title - Rain in Forest.WAV  
+Owner - inchadney 
+License: Attribution 4.0
+https://freesound.org/s/22132/ 
+
+AmbientPianoMusic
+Title - Ambient Piano Music #5 
+Owner - benpm 
+License -  Attribution 4.0
+https://freesound.org/s/321146/ 
+
+DummyHit
+Title - wood hit 
+Owner - Ian_G 
+https://freesound.org/s/547414/ 
+License - Creative Commons 0
+
+SwordStab
+Title - Hit Swing Sword Small 2 
+Owner - CogFireStudios  
+License - Creative Commons 0
+https://freesound.org/s/547040/  
+
+BurrowSound
+Title - Digging in Dirt 
+Owner - Anandthethird
+License - Attribution NonCommercial 3.0
+https://freesound.org/s/366713/
+
+BossDoorOpen
+Title - Heavy gong 
+Owner - jorickhoofd 
+License - Attribution 4.0
+https://freesound.org/s/177872/ 
+
+KeyJingle
+Title - Keys Handling 2.wav 
+Owner - Geoff-Bremner-Audio
+License - Creative Commons 0
+https://freesound.org/s/671415/
+
+FootStep
+Title - Grassy Footstep 3 
+Owner - OwlStorm 
+License - Creative Commons 0
+https://freesound.org/s/151228/  
+
+SnailMove
+Title - Slime 3 
+Owner - Lukeo135 
+License - Creative Commons 0
+https://freesound.org/s/530615/ 
+
+BossFight
+Title - Battle Scene Music Score.wav 
+Owner - FunWithSound
+License - Attribution NonCommercial 4.0
+https://freesound.org/s/369251/ 
+
+SnailAttack
+Title - SlimeJump.wav 
+Owner - Zuzek06 
+License - Creative Commons 0
+https://freesound.org/s/353250/ 
+
 Thunk
+Title -- thunk!.wav 
+Owner -- Reitanna 
+License - Creative Commons 0
+https://freesound.org/s/252265/
 
-https://freesound.org/people/checholio/sounds/443829/
+Squeak
+Title - 47 Orden Ardilla.wav
+Owner - checholio 
+https://freesound.org/s/443829/ 
+License - Attribution 3.0 
+
+
+
+
+
+
+
+
+
+
+
