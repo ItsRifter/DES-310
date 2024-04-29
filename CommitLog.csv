@@ -1,0 +1,750 @@
+3f320509,JoeMulc,Light adjustment,Sat 21:47
+c7a363f1,JoeMulc,nanite added testing other stuff,Sat 20:08
+720a351a,JoeMulc,Disabled nanite,Fri 16:48
+eb4ddd56,JoeMulc,Music fix,Fri 16:40
+3af25667,JoeMulc,Working on shader complexity now.,Fri 16:28
+b5565bf0,JoeMulc,Lights fixed,Fri 15:19
+1f3c547f,JoeMulc,Working on performance,Fri 15:02
+ec5adb86,JoeMulc,Working on performance,Fri 14:10
+b1de273d,KIERAN STUART,Update MoTGF_GameState.uasset,Wed Apr 24 17:06
+8f9fd1b3,KIERAN STUART,Fixes :),Wed Apr 24 16:41
+feae15c5,KIERAN STUART,Sound Changes and Player Spawn,Wed Apr 24 15:35
+d1de03a9,KIERAN STUART,Key Remove,Wed Apr 24 15:07
+8e1e96e9,KIERAN STUART,Joe - More stuff,Wed Apr 24 15:00
+0c079df9,KIERAN STUART,Audio changing,Wed Apr 24 14:48
+8f5253b5,KIERAN STUART,Joe  - Please work:),Wed Apr 24 14:16
+e954e937,ItsRifter,Clean out CPP files,Wed Apr 24 14:01
+d92aead7,KIERAN STUART,Map Clean and Complete Game Loop,Wed Apr 24 13:20
+b18e2a47,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 13:11
+9c8d5d7e,KIERAN STUART,Enemy UI Fix,Wed Apr 24 13:10
+4566645c,JoeMulc,Snail Boss stuff,Wed Apr 24 13:10
+d0e5facf,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 12:42
+f2ea0108,JoeMulc,Boss stuff,Wed Apr 24 12:42
+66c7670d,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 12:41
+a4bc9aa2,KIERAN STUART,Timer Fix,Wed Apr 24 12:41
+78e0f471,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 12:08
+433e9f8f,JoeMulc,Boss Room and bosses,Wed Apr 24 12:07
+e01a4562,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 11:46
+a45bafcc,KIERAN STUART,Win Screen In,Wed Apr 24 11:45
+7eb88171,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 11:44
+f8f21132,JoeMulc,Level changes,Wed Apr 24 11:43
+d6aa39be,KIERAN STUART,UI Fix,Wed Apr 24 11:43
+6d8e0c83,Holly-2002,UI Jazz,Wed Apr 24 11:27
+78456d53,ItsRifter,Fix warnings + update project thumbnail,Wed Apr 24 11:26
+81511ab9,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 24 11:02
+cc17a075,JoeMulc,References,Wed Apr 24 11:02
+a8b7b716,Holly-2002,Start screen update,Tue Apr 23 21:04
+85afc2e1,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 23 17:58
+d8198f29,KIERAN STUART,Mushroom Fix, Timer Fix, Key Counter,Tue Apr 23 17:58
+7376ec37,JoeMulc,Update BP_Gnome.uasset,Tue Apr 23 17:56
+dbc6b456,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 23 17:39
+16d00fa9,KIERAN STUART,Splash Screens, Pause Remaster, Shop, Player UI Fixes,Tue Apr 23 17:36
+3e7984f3,JoeMulc,c,Tue Apr 23 16:55
+bcf1a9bb,JoeMulc,Hit fix,Tue Apr 23 16:54
+8a491537,JoeMulc,Small boss changes + music,Tue Apr 23 16:21
+7872b15e,JoeMulc,Small fixes,Tue Apr 23 16:15
+cd603675,JoeMulc,Anti Climb measures taken,Tue Apr 23 15:53
+e4a4ab42,JoeMulc,Hit noise,Tue Apr 23 15:15
+4bd81dd5,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 23 14:52
+31e8ff7f,JoeMulc,Sounds,Tue Apr 23 14:43
+4e8976d1,ItsRifter,Adjusted home burrow indication,Tue Apr 23 14:41
+76054d29,JoeMulc,Snail Sound done,Tue Apr 23 14:30
+dd951927,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 23 13:38
+57ac4c91,JoeMulc,Smoll,Tue Apr 23 13:38
+b4fbdb52,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 23 13:06
+21e0ad2c,Holly-2002,Snail Boss Textures,Tue Apr 23 13:05
+31d292ae,JoeMulc,Room fixes,Tue Apr 23 12:41
+45d3168a,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 23 12:11
+3411a390,JoeMulc,Spawns Fixed,Tue Apr 23 12:11
+3726a9d4,ItsRifter,Home Burrow indicator,Tue Apr 23 11:34
+f9dac4be,ItsRifter,Issues fixed with boss room,Tue Apr 23 11:21
+0a1adafb,JoeMulc,Boss Level,Tue Apr 23 10:51
+f887d85b,JoeMulc,Updated Blend spaces,Tue Apr 23 10:41
+8a40b35a,JoeMulc,Working on the boss,Tue Apr 23 10:36
+664afdc5,JoeMulc,Boss close,Mon Apr 22 23:38
+b8473975,ItsRifter,More sounds,Sat Apr 20 14:35
+5b632af2,JoeMulc,Little changes,Fri Apr 19 14:04
+8b539967,JoeMulc,Lil chagnes,Fri Apr 19 14:00
+ebdff9d6,JoeMulc,Footsteps + dummy fix,Fri Apr 19 13:42
+1efdeb0e,JoeMulc,Fountain sounds,Thu Apr 18 19:47
+7fd16991,JoeMulc,Sound Stuff,Thu Apr 18 19:15
+5b640fce,JoeMulc,Collision fixes,Thu Apr 18 18:19
+565f7453,JoeMulc,Key Audio,Thu Apr 18 18:18
+b6a4ffa6,JoeMulc,Audio and bug fixes,Thu Apr 18 18:13
+d8d09ce1,JoeMulc,Burrow change,Thu Apr 18 16:52
+e61ae178,JoeMulc,MoreSound,Thu Apr 18 15:58
+c5f167c6,JoeMulc,More sound and fixes,Thu Apr 18 15:46
+d9ce35c7,JoeMulc,Working on sound,Thu Apr 18 15:23
+15117944,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 17:45
+85695e14,JoeMulc,Ui Stuff,Wed Apr 17 17:44
+169aa586,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 17:41
+466df40a,KIERAN STUART,Quick Fix,Wed Apr 17 17:41
+074a6900,JoeMulc,Room Added,Wed Apr 17 17:29
+5ae26946,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 17:21
+01d30baf,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 17:21
+8d3b5201,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 17:19
+138b06c6,KIERAN STUART,Room Addition, New Font,Wed Apr 17 17:19
+921e56db,Holly-2002,Room Adjustments,Wed Apr 17 17:19
+0159628a,JoeMulc,Room,Wed Apr 17 17:18
+42d921d4,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 17:15
+9606b7e0,JoeMulc,Rooms and burrows fixed.,Wed Apr 17 17:14
+821897b8,Holly-2002,Fixed Mushroom Room Light,Wed Apr 17 16:53
+6cb58d56,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 16:39
+adbff3f8,Holly-2002,Rabbit Burrow Sign Update,Wed Apr 17 16:39
+e804913e,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 16:37
+c497478e,JoeMulc,Collision Fixes,Wed Apr 17 16:31
+64a16a09,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 16:24
+1e1c2ed6,Holly-2002,Issues with Save,Wed Apr 17 16:22
+75830880,JoeMulc,Forest Fixed,Wed Apr 17 15:41
+9cf638b1,KIERAN STUART,Snail Fix,Wed Apr 17 15:30
+81e709c2,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 15:01
+8b559180,KIERAN STUART,Shop UI Upgrade (Tobias) and Snail Fix,Wed Apr 17 15:01
+3750f973,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 14:55
+28ad6308,JoeMulc,Boss Room Changes,Wed Apr 17 14:55
+d2c9a9cd,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 14:25
+93c1e510,KIERAN STUART,Enemy Widget Remove, Snail Work,Wed Apr 17 14:25
+f46a5632,ItsRifter,Start of resolution setting,Wed Apr 17 14:13
+e811fe87,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 13:50
+a0e61cac,JoeMulc,Door Timer Fix,Wed Apr 17 13:49
+21fa3122,Holly-2002,Blood,Wed Apr 17 13:46
+22f600db,JoeMulc,More stuff,Wed Apr 17 13:42
+8c3cac56,JoeMulc,Tutorially.,Wed Apr 17 13:30
+064a3809,JoeMulc,Door collision,Wed Apr 17 13:23
+f031b1aa,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 13:21
+f1138bb0,KIERAN STUART,Removed VFX For Pitchfork,Wed Apr 17 13:21
+277e227b,JoeMulc,collision fixed,Wed Apr 17 13:20
+9df168af,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 13:20
+3940725c,JoeMulc,Fish Up,Wed Apr 17 13:16
+f23e1492,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 13:12
+6040ce75,KIERAN STUART,Snail Update/Fix,Wed Apr 17 13:11
+36207a19,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 13:08
+4fac1e26,ItsRifter,Restore shop animation spam fix,Wed Apr 17 13:07
+872e9ce2,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 13:05
+73eb3a6f,Holly-2002,Sign Added and VXF,Wed Apr 17 13:04
+67cff1b1,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 12:55
+48a32410,KIERAN STUART,VFX Fix and Damage Upgrade Start,Wed Apr 17 12:54
+f05f75c8,ItsRifter,Fix fish animation spam on trigger,Wed Apr 17 12:48
+af3255a1,JoeMulc,Timer change,Wed Apr 17 12:41
+7fbb59b2,JoeMulc,Gone fishin'.,Wed Apr 17 12:26
+32562446,JoeMulc,Weapon cancels fixed,Wed Apr 17 11:57
+a75c32ab,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 11:47
+90e5437e,JoeMulc,Mushroom ting,Wed Apr 17 11:46
+bf5408de,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 11:46
+1d71c767,Holly-2002,Room Adjustments,Wed Apr 17 11:45
+34865219,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Apr 17 11:39
+7efaefdc,JoeMulc,Bug insurances,Wed Apr 17 10:47
+b9597552,Holly-2002,Signs, Textures & Jazz Forest Stuff,Wed Apr 17 10:45
+669c6aea,ItsRifter,Extra sounds + made boss room entry more clearer,Wed Apr 17 10:44
+f35421b8,JoeMulc,Frog tongue attach,Wed Apr 17 10:31
+594f9c97,JoeMulc,rabbit sockets added,Wed Apr 17 10:23
+abedd52e,Holly-2002,Updated Gate Added,Wed Apr 17 09:36
+1cd198aa,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 16:39
+d27ed4f1,JoeMulc,Animations and attacks fixed,Tue Apr 16 16:38
+fc72d1bd,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 15:50
+d4d78528,Holly-2002,Blood Splatter Needs Plugged in,Tue Apr 16 15:49
+407c9e57,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 15:43
+5eb19bad,KIERAN STUART,Shop Multi Upgrade and Images Fix,Tue Apr 16 15:41
+d9ce049b,ItsRifter,Particle effect on hitting enemy,Tue Apr 16 15:38
+bd1e7679,Holly-2002,VXF: Weapon and Mushroom UPDATE,Tue Apr 16 15:33
+5fbfbec5,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 15:06
+f6a01ad8,Holly-2002,Chaos Rabbit,Tue Apr 16 15:05
+6fcb49e8,ItsRifter,Proper frog attacks + added frog animations,Tue Apr 16 14:50
+4d06ba73,JoeMulc,Lil Change,Tue Apr 16 14:46
+4f3a56bc,Holly-2002,Gnome Texture Added,Tue Apr 16 14:40
+0c68a153,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 14:30
+96922825,JoeMulc,Pickups fixed.,Tue Apr 16 14:24
+ce2153bb,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 14:18
+c2d2eef6,Holly-2002,Dirt Added Material & Assets,Tue Apr 16 14:18
+ef6fe256,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 14:15
+d6e86a21,JoeMulc,Gnome Fixed,Tue Apr 16 14:15
+71a7b365,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 14:03
+f660c69f,Holly-2002,Art Stuff,Tue Apr 16 14:02
+0739a01d,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 13:52
+6200c104,JoeMulc,Weapon pickups,Tue Apr 16 13:52
+5ac94c52,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 13:25
+2afc9482,KIERAN STUART,Quick Fixes,Tue Apr 16 13:24
+7a4fd15a,JoeMulc,Merge branch 'CombatBranch',Tue Apr 16 13:23
+9055a9f7,JoeMulc,Weapon Stuff,Tue Apr 16 13:23
+186b56ed,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 13:16
+b7406fab,Holly-2002,Flower Power,Tue Apr 16 13:15
+85343a76,ItsRifter,Controller looking with gamepad,Tue Apr 16 13:05
+56ff04a9,KIERAN STUART,On Screen Damage,Tue Apr 16 12:56
+ee243836,JoeMulc,Main Push,Tue Apr 16 12:36
+af0ba850,JoeMulc,Merge branch 'CombatBranch',Tue Apr 16 12:29
+eeebc932,JoeMulc,AI Fixed,Tue Apr 16 12:27
+d9521ff6,KIERAN STUART,Quick Fix,Tue Apr 16 12:23
+362b1b24,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 11:55
+2c0db6d4,KIERAN STUART,Menu Controller Support,Tue Apr 16 11:54
+c757ff89,ItsRifter,Fix mishap with weapons,Tue Apr 16 11:45
+f9bc6674,ItsRifter,Change controller use bind + player upgrade fixes,Tue Apr 16 11:37
+ccd30b4b,JoeMulc,Cancelling,Tue Apr 16 11:30
+6f902744,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 11:25
+3f4252b3,KIERAN STUART,Controller Addition, Keyboard Addition,Tue Apr 16 11:25
+2edd5532,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Apr 16 11:17
+e7328d45,KIERAN STUART,Pause Fix,Tue Apr 16 11:06
+5ad7c194,ItsRifter,Fix fast travel burrows not showing tip text,Tue Apr 16 10:54
+6d065922,ItsRifter,Make fish not appear on an active run,Tue Apr 16 10:47
+c5f7b3d9,ItsRifter,Reduce lights on lamps,Tue Apr 16 10:40
+8c380a5c,Holly-2002,Flowers begun to add,Tue Apr 16 07:07
+62837a2a,Holly-2002,Added in Gnome Textures & Materials and reduced lighting,Mon Apr 15 16:45
+190bb24c,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Mon Apr 15 15:36
+4c627c17,Holly-2002,Start Room Changes,Mon Apr 15 15:36
+b4a40a1e,JoeMulc,Fountain stuff,Mon Apr 15 14:43
+7f863e05,JoeMulc,Snail walk finished,Mon Apr 15 14:35
+7feb8e6a,JoeMulc,Burrows burrowier,Mon Apr 15 14:28
+f0186aac,JoeMulc,Lil changes,Mon Apr 15 14:24
+fa9e69c7,JoeMulc,Burrows changed,Mon Apr 15 14:19
+8a8ae611,JoeMulc,Snail Animation,Mon Apr 15 12:55
+28887dd0,ItsRifter,Quick sound cue changes,Mon Apr 15 11:09
+ee75c5a8,JoeMulc,Collision Fixes,Fri Apr 12 19:20
+9ffab7fa,JoeMulc,Ambient sounds,Fri Apr 12 19:18
+723a7484,JoeMulc,Sound change,Fri Apr 12 19:05
+81a108ab,JoeMulc,Rain noise,Fri Apr 12 18:56
+5cb03f64,KStuart007,Controller Support,Fri Apr 12 18:45
+10652d73,JoeMulc,Remove home snail,Fri Apr 12 14:42
+87427952,JoeMulc,Snail Animations.,Fri Apr 12 14:36
+051e6dfb,JoeMulc,SnailStuff,Fri Apr 12 14:22
+1532613c,JoeMulc,SnailAnimations Added,Fri Apr 12 14:13
+3ce44c73,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Thu Apr 11 17:42
+d099c180,JoeMulc,Snail rigs,Thu Apr 11 17:42
+66cbf5ed,ItsRifter,Mushroom charge + attack + hit sounds,Thu Apr 11 17:17
+6b198ef8,JoeMulc,Some Snail Stuff,Thu Apr 11 15:55
+15e957e2,JoeMulc,More Animation stuff,Thu Apr 11 13:49
+541a47b7,JoeMulc,More Animation stuff,Wed Apr 10 15:57
+5e745148,JoeMulc,Fish Animations done,Wed Apr 10 15:43
+0f385fb4,JoeMulc,More fish animations,Wed Apr 10 15:27
+adb434f7,JoeMulc,Fish added,Wed Apr 10 15:24
+2a93a31f,JoeMulc,OtherStuff,Tue Apr 9 20:37
+f11ad799,JoeMulc,Snail rig and fish animations,Tue Apr 9 20:27
+dace6701,JoeMulc,Fish rig added,Tue Apr 9 20:15
+715cc630,JoeMulc,Combat changes done,Wed Apr 3 16:16
+b1c7045f,JoeMulc,Merge branch 'Joe',Wed Apr 3 16:13
+e60b470e,JoeMulc,lil,Wed Apr 3 16:12
+eda68a66,JoeMulc,Attacks finished need tweaking.,Wed Apr 3 16:09
+0c82cbc7,JoeMulc,NeedToFixAnmis,Wed Apr 3 15:39
+acd9317c,JoeMulc,ChargedAttack,Wed Apr 3 15:20
+1481e77b,JoeMulc,Revert,Wed Apr 3 14:57
+ce546cb9,JoeMulc,Animations Done,Tue Apr 2 21:08
+0abf5bb6,JoeMulc,Working On Charged Attack,Tue Apr 2 20:41
+6850e050,JoeMulc,Working on charge attack,Tue Apr 2 20:26
+1009fdcb,JoeMulc,Working on charged attack,Tue Apr 2 20:15
+ebabefdd,JoeMulc,Dash tweaks,Mon Apr 1 20:56
+8af0f471,JoeMulc,Item drop balance,Mon Apr 1 18:08
+274410d7,JoeMulc,Cleanup,Mon Apr 1 17:22
+a75b44a3,JoeMulc,Fixed UI and burrows,Mon Apr 1 17:05
+4984d33f,JoeMulc,Burrows fixed,Mon Apr 1 17:02
+eccc8cfc,JoeMulc,Changed Start-up Map,Mon Apr 1 16:31
+b3bd11f1,JoeMulc,BUILD FAILED FIX - DEV MACROS!!!,Wed Mar 27 18:29
+b57f62ef,JoeMulc,ALPHA BUILD,Wed Mar 27 17:35
+83c91382,JoeMulc,ALPHA BUILD,Wed Mar 27 17:34
+dd035d09,JoeMulc,Alpha build done,Wed Mar 27 17:21
+f28b4182,JoeMulc,Alpha build,Wed Mar 27 17:19
+7fb232f6,JoeMulc,ALPHA build,Wed Mar 27 17:13
+263e99fa,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 17:08
+4b519f0c,JoeMulc,ALPHA build,Wed Mar 27 17:08
+8a2fdba0,Holly-2002,A snail,Wed Mar 27 16:50
+8398acc0,JoeMulc,Room collision fixed,Wed Mar 27 16:40
+332bf156,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 16:27
+ae5e05a7,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 16:26
+6f168a4b,JoeMulc,Room,Wed Mar 27 16:25
+857b2faf,KIERAN STUART,Health Fix, Shop Fix,Wed Mar 27 16:25
+1a479827,JoeMulc,Room Changes,Wed Mar 27 16:24
+35422268,JoeMulc,Merge branch 'CombatBranch',Wed Mar 27 16:03
+74313622,JoeMulc,Pitchfork combat,Wed Mar 27 16:02
+7de2e642,KIERAN STUART,Tutorial Implementation,Wed Mar 27 15:51
+87e6b580,KIERAN STUART,Fix,Wed Mar 27 14:55
+f1b9049d,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 14:52
+ea33249b,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 14:52
+45731118,HighlandTaurus,Fish added & Textures,Wed Mar 27 14:52
+44cf0836,KIERAN STUART,Frog Health Fix,Wed Mar 27 14:51
+abd9d1b9,Holly-2002,Room Changes COMPLETE,Wed Mar 27 14:49
+712e5cbe,KIERAN STUART,Weapon Fix,Wed Mar 27 14:38
+5972760a,KIERAN STUART,Weapon VFX and Dummy Fix,Wed Mar 27 14:33
+5457ff77,JoeMulc,Merge branch 'CombatBranch',Wed Mar 27 14:17
+b8035f03,JoeMulc,Frog Anims In,Wed Mar 27 14:16
+2d7bb994,ItsRifter,Merge branch 'health_pickups',Wed Mar 27 13:49
+1ce626b3,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 13:46
+836135f2,ItsRifter,Use fast travel burrow instead of regular burrow,Wed Mar 27 13:46
+923bb8a0,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 27 13:38
+c63ef261,JoeMulc,Combat changes,Wed Mar 27 13:36
+5a214b6a,ItsRifter,Add sound variables back,Wed Mar 27 13:30
+11b48009,JoeMulc,Shovel Combo added,Wed Mar 27 13:26
+e509658c,JoeMulc,Merge remote-tracking branch 'origin/BossRoom',Wed Mar 27 13:13
+448bc187,JoeMulc,Merge branch 'CombatBranch',Wed Mar 27 13:09
+7ff6e3c9,JoeMulc,Weapon Stuff,Wed Mar 27 13:08
+8ea6ce5c,Holly-2002,Room UPDATE,Wed Mar 27 12:56
+8798cc5f,ItsRifter,Health pickup + cleanups,Wed Mar 27 12:19
+b3a93292,JoeMulc,NS,Wed Mar 27 12:10
+354c73d4,JoeMulc,Shovel Combo added,Wed Mar 27 12:10
+935a0cfe,Holly-2002,Mushroom_Partical_Effect_UPDATE,Wed Mar 27 11:32
+4b058482,ItsRifter,Play sound before applying weapon damage,Wed Mar 27 10:03
+3df1fd04,ItsRifter,Show interact UI where appropriate + tweaked interaction,Wed Mar 27 10:00
+e2e92529,ItsRifter,Tweak rooms,Wed Mar 27 09:48
+070474a9,ItsRifter,Add pitchfork stab + scythe slash & woosh,Wed Mar 27 09:37
+3f25eab1,JoeMulc,Combo added,Tue Mar 26 16:19
+c64ef220,BRENDAN YIM,Adjustments,Tue Mar 26 15:56
+3fd260c1,Holly-2002,Frog Texture UPDATE,Tue Mar 26 15:19
+82fd564f,BRENDAN YIM,Boss Room,Tue Mar 26 15:05
+58e9e567,Holly-2002,The Mushroom isn't a fungi,Tue Mar 26 14:53
+1296739d,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 26 12:49
+ff869d80,Holly-2002,Pond Update,Tue Mar 26 12:49
+cb19416f,ItsRifter,Update shop + upgrades,Tue Mar 26 12:48
+bccbd5ac,JoeMulc,Minor,Tue Mar 26 12:40
+d0ba232f,JoeMulc,MinorStuff,Tue Mar 26 12:36
+2e06a0ec,JoeMulc,Snail Tweaks,Tue Mar 26 12:26
+ef062c2a,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 26 12:16
+47924ef4,JoeMulc,Room Fix,Tue Mar 26 12:16
+b7067c19,BRENDAN YIM,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 26 12:12
+4f39f4f8,JoeMulc,small changes,Tue Mar 26 12:12
+4e62fe29,JoeMulc,Smallchanges,Tue Mar 26 12:11
+6024cd4e,BRENDAN YIM,Vases,Tue Mar 26 12:11
+806b7e52,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 26 12:09
+5af7b938,ItsRifter,Fix post screen result + double tap + interact UI,Tue Mar 26 12:08
+d40a34b6,JoeMulc,Mushroom Fix,Tue Mar 26 12:08
+8b20ff6a,JoeMulc,RoomFixes,Tue Mar 26 11:55
+5b5ae7f9,JoeMulc,Small changes,Tue Mar 26 11:46
+21887d22,BRENDAN YIM,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 26 11:40
+c588b040,BRENDAN YIM,Room Updates,Tue Mar 26 11:39
+4d71f9cf,JoeMulc,player Update,Tue Mar 26 11:37
+20e64a47,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 26 11:33
+14671bd3,ItsRifter,Leftover files saved,Tue Mar 26 11:32
+2c627dfb,ItsRifter,Update money after runs,Tue Mar 26 11:32
+708ed595,JoeMulc,Weapon balance,Tue Mar 26 11:30
+3974b0fe,ItsRifter,Fix player interacting shop,Tue Mar 26 11:15
+35c6aee1,ItsRifter,Merge branch 'PleaseWork',Tue Mar 26 11:10
+b44d2f04,ItsRifter,Use coins instead of pending coins for shop,Tue Mar 26 11:09
+c6a43dd9,KIERAN STUART,Pause Menu Implementation,Tue Mar 26 10:58
+d4cce183,JoeMulc,Knockback based on weapon, fixed nav mesh again,Wed Mar 20 16:12
+2e883a83,JoeMulc,Pickup tweaks,Wed Mar 20 15:28
+9a6d150d,JoeMulc,Portal leads to boss room now,Wed Mar 20 15:14
+0c759295,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 20 15:14
+f514a818,JoeMulc,BossRoomStarted,Wed Mar 20 15:13
+6d56a8ec,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 20 15:12
+4e6fa166,ItsRifter,Move UI to PlayerHUD + use double tap functions,Wed Mar 20 15:12
+280315d6,JoeMulc,Tweaking,Wed Mar 20 14:54
+4babc044,JoeMulc,Enemy and gamestate updated,Wed Mar 20 14:49
+50f38e1e,JoeMulc,Nav Mesh Fixed,Wed Mar 20 13:50
+fea903c0,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 20 13:39
+798f573d,ItsRifter,Restore interact UI,Wed Mar 20 13:39
+da6a3e5f,Holly-2002,Fence Update,Wed Mar 20 13:24
+c7fdd174,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 20 13:10
+8e38ddf1,Holly-2002,Environment UPDATE,Wed Mar 20 13:06
+8245e768,JoeMulc,Textures,Wed Mar 20 12:54
+2b9fefc4,ItsRifter,Interact tip UI + other small changes,Wed Mar 20 12:53
+ac752122,JoeMulc,Room fixes,Wed Mar 20 12:42
+8b48fc70,JoeMulc,Fixes,Wed Mar 20 12:30
+fe99bb15,JoeMulc,Lights,Wed Mar 20 12:10
+de622d57,JoeMulc,Mushroom Changed,Wed Mar 20 11:43
+084a2dc9,JoeMulc,Pitchfork placement changed,Wed Mar 20 11:27
+7017b219,JoeMulc,Central fix - fiddling with vfx,Wed Mar 20 11:21
+98e62269,JoeMulc,Warning Light Added,Wed Mar 20 10:54
+61122ecd,JoeMulc,Pitchfork sound,Wed Mar 20 10:47
+ab503ea5,JoeMulc,Small Fixes,Wed Mar 20 10:38
+454b7d86,ItsRifter,Try to add gamepad support,Tue Mar 19 23:47
+3bb0eb75,JoeMulc,Main Up To date,Tue Mar 19 17:16
+66c3c56f,JoeMulc,Merge branch 'PleaseWork',Tue Mar 19 17:07
+38edd551,JoeMulc,Knockback further implemented,Tue Mar 19 17:02
+35ca5e72,JoeMulc,Knockback in,Tue Mar 19 16:56
+898bf578,JoeMulc,Merge branch 'PleaseWork' of https://github.com/ItsRifter/DES-310 into PleaseWork,Tue Mar 19 16:14
+bd00b6e2,JoeMulc,Forest and cursor change,Tue Mar 19 16:13
+4115f0e5,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 19 15:52
+8e12db4d,ItsRifter,Coin value scaling on rooms passed,Tue Mar 19 15:49
+524c1d76,KIERAN STUART,Pause Menu,Tue Mar 19 15:43
+f4b80d7d,KIERAN STUART,Menu System Implementation,Tue Mar 19 14:49
+17e1f7a5,JoeMulc,Merge branch 'PleaseWork' of https://github.com/ItsRifter/DES-310 into PleaseWork,Tue Mar 19 14:46
+08458905,JoeMulc,SpawnFixes,Tue Mar 19 14:45
+c238a0a9,KIERAN STUART,Merge branch 'Kieran_S2' into PleaseWork,Tue Mar 19 14:42
+f10eafa7,KIERAN STUART,Menu System, Burrow Sign,Tue Mar 19 14:39
+47f22fea,JoeMulc,LightFogFix,Tue Mar 19 14:32
+587f5ceb,BRENDAN YIM,Merge branch 'Lighting' into PleaseWork,Tue Mar 19 14:25
+67cae230,JoeMulc,Error fixes,Tue Mar 19 14:23
+58f59fc8,JoeMulc,Error fixes,Tue Mar 19 14:15
+07416ed0,BRENDAN YIM,New,Tue Mar 19 14:13
+5be8af4c,BRENDAN YIM,New,Tue Mar 19 14:13
+6d61d967,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 19 14:04
+83dd5333,JoeMulc,Rain added,Tue Mar 19 14:02
+dd34b2d5,BRENDAN YIM,Lighting And Collision Fixes,Tue Mar 19 13:59
+46c04e5e,BRENDAN YIM,Lighting Added,Tue Mar 19 13:58
+505d51b5,JoeMulc,Minor Player fix,Tue Mar 19 13:49
+25793f80,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 19 13:42
+500a9b19,ItsRifter,Pending coins + calculations,Tue Mar 19 13:41
+bfce19af,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 19 13:39
+4f9056a9,JoeMulc,Weapon Look at changed,Tue Mar 19 13:39
+654187ab,Holly-2002,Rain Added,Tue Mar 19 12:48
+eda924ca,JoeMulc,ClickSpamFixed,Tue Mar 19 12:43
+02d49397,KIERAN STUART,Menu System,Tue Mar 19 12:36
+3793c7f0,JoeMulc,Pitchfork Fixed,Tue Mar 19 12:19
+664d4a22,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 19 12:08
+4f8b52c9,JoeMulc,FixingAnimations,Tue Mar 19 12:08
+071e2a42,Holly-2002,Environment Adjustments,Tue Mar 19 11:57
+8680337e,KIERAN STUART,Floor Shadow Fix,Tue Mar 19 11:37
+370c7d8a,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Mar 19 10:52
+3b516b3e,ItsRifter,Fix health UI not showing & resetting,Tue Mar 19 10:52
+229b963c,KIERAN STUART,Quick Fixes,Tue Mar 19 10:36
+32a4ce34,JoeMulc,ForestFolder,Tue Mar 19 10:28
+8312abce,JoeMulc,ForestFolder,Tue Mar 19 10:28
+f80e64b9,KIERAN STUART,Quick Fixes,Wed Mar 13 15:55
+d39370fa,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 15:33
+ca210797,KIERAN STUART,Debug prints removed,Wed Mar 13 15:30
+0bfa5188,JoeMulc,Fog change,Wed Mar 13 15:27
+0b59272e,JoeMulc,Mo Props,Wed Mar 13 14:52
+2880ade4,JoeMulc,Build Level,Wed Mar 13 13:48
+705c4867,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 13:44
+9c8fc5bf,JoeMulc,Lots of changes,Wed Mar 13 13:44
+f4523c5a,KIERAN STUART,Enemy Warning Best,Wed Mar 13 13:43
+cfc27195,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 13:31
+9911ca44,KIERAN STUART,Pond Water Implementation,Wed Mar 13 13:30
+b46ad15d,JoeMulc,More brendan changes,Wed Mar 13 13:30
+05b4b438,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 13:24
+22e41f36,JoeMulc,Brendan Assets,Wed Mar 13 13:24
+1a701b6a,KIERAN STUART,Revert "Attack warning indicator",Wed Mar 13 13:12
+e1af6baf,ItsRifter,Attack warning indicator,Wed Mar 13 13:06
+172cdf47,JoeMulc,Mound added,Wed Mar 13 12:59
+7baa9a9b,KIERAN STUART,Invincibility While Dashing,Wed Mar 13 12:59
+325e8227,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 12:53
+a5455ffe,KIERAN STUART,Fix Shop,Wed Mar 13 12:52
+536d069b,JoeMulc,Spawns and rooms fixed,Wed Mar 13 12:52
+ae368f26,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 12:37
+57792b1f,JoeMulc,Keys Added,Wed Mar 13 12:36
+69d62c55,KIERAN STUART,Mushroom Timing Fix, Snail Warning,Wed Mar 13 12:34
+b772f0ba,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 12:25
+4158799e,KIERAN STUART,Mushroom Flash,Wed Mar 13 12:25
+7d7bc4af,ItsRifter,Frog sounds,Wed Mar 13 12:20
+62138e68,KIERAN STUART,Mushroom Attack Warning,Wed Mar 13 12:17
+7050760d,JoeMulc,Nav fixed,Wed Mar 13 11:36
+bbb28922,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 11:23
+6b020a17,JoeMulc,Shovel fix,Wed Mar 13 11:23
+7d174f2e,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Mar 13 11:22
+ed4890c2,KIERAN STUART,Merge branch 'BranchBeforeRoomChange',Wed Mar 13 11:22
+d5c2c2e2,JoeMulc,Shovel way better,Wed Mar 13 11:21
+08e0a338,KIERAN STUART,Test Unreal Version Control,Wed Mar 13 11:18
+c6fef158,JoeMulc,Pitchfork betterer,Wed Mar 13 11:15
+37c82613,JoeMulc,Pitchfork Better,Wed Mar 13 11:13
+f1134193,KIERAN STUART,Shop Quick Fix,Wed Mar 13 11:13
+996ea759,KIERAN STUART,Coins Spawns,Wed Mar 13 11:09
+1334709e,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Mar 13 11:05
+edd76ad8,KIERAN STUART,Snail Fixes, Mushroom Fix, Coin Spawn on Death, 6HP Indication,Wed Mar 13 11:01
+ffcbc4b8,ItsRifter,Frog attack angle check,Wed Mar 13 10:50
+b17aca33,JoeMulc,Further tweaks,Wed Mar 13 10:34
+749f3278,JoeMulc,Tweaks,Wed Mar 13 10:33
+edfaa9e1,ItsRifter,Show Holly Unreal Revision with Github,Wed Mar 13 09:29
+2e162cd8,JoeMulc,Forest Fixed,Tue Mar 12 16:56
+3af21cdb,JoeMulc,Merge branch 'BranchBeforeRoomChange',Tue Mar 12 16:52
+7c39eb8d,JoeMulc,Lil changes,Tue Mar 12 16:48
+4f6e01ee,JoeMulc,Frog tongue attaches!,Tue Mar 12 16:41
+dbb2ee9f,JoeMulc,Animation fps chagned,Tue Mar 12 16:23
+68725aa8,JoeMulc,Mushroom tinkered,Tue Mar 12 16:22
+4dc593ae,KIERAN STUART,Enemy Fixes,Tue Mar 12 16:06
+8313bdb9,JoeMulc,C++ Added,Tue Mar 12 15:55
+588b44a5,JoeMulc,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 15:37
+f97b652f,JoeMulc,Test,Tue Mar 12 15:37
+54539d87,KIERAN STUART,Quick Fix,Tue Mar 12 15:34
+1b744bcb,ItsRifter,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 15:28
+83ba6eb8,ItsRifter,Frog charge up attack + Enemy Base & Frog tweaks,Tue Mar 12 15:22
+ec89c8a9,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 15:17
+b0bf4d72,KIERAN STUART,Shop Spend Fix,Tue Mar 12 15:17
+2bcdcad2,JoeMulc,Mushroom Anim Complete,Tue Mar 12 15:17
+eb77c446,JoeMulc,Enemy un messed up,Tue Mar 12 15:13
+c91f8df4,JoeMulc,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 15:09
+2a55e469,JoeMulc,Little Changes,Tue Mar 12 15:09
+1a6b48c6,JoeMulc,Animation,Tue Mar 12 15:09
+1c302789,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 15:01
+2369f5fb,KIERAN STUART,Fix,Tue Mar 12 15:01
+7e7bafdb,JoeMulc,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 14:59
+c71bde4a,JoeMulc,Animation for mushroom,Tue Mar 12 14:56
+d4a2c4ee,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 14:56
+b58d68a5,KIERAN STUART,UI Changes, Shop Implementation,Tue Mar 12 14:52
+6861193d,JoeMulc,Enemy location changed,Tue Mar 12 14:29
+1e0daafd,JoeMulc,Start Changed,Tue Mar 12 13:31
+a4ca14f3,JoeMulc,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Tue Mar 12 13:24
+5637a1ad,JoeMulc,Tobias rig added,Tue Mar 12 13:23
+88202a30,Holly-2002,Mushroom UPDATE,Tue Mar 12 13:20
+8516b92c,Holly-2002,Mushroom Walking Animation,Tue Mar 12 13:19
+59911f34,JoeMulc,More Room stuff,Tue Mar 12 13:12
+c4d3b00a,JoeMulc,MoreSpawns fixed still issues however,Tue Mar 12 12:20
+dcc3733a,JoeMulc,Rooms kinda fixed,Tue Mar 12 12:09
+693d598e,JoeMulc,Folder Rename,Tue Mar 12 10:59
+f5b5870b,KIERAN STUART,Quick Fixes,Wed Mar 6 17:06
+5826e428,KIERAN STUART,Merge branch 'Kieran_S' into BranchBeforeRoomChange,Wed Mar 6 16:55
+3c082161,KIERAN STUART,Gnome, Mushroom Fixes,Wed Mar 6 16:54
+828fb983,JoeMulc,Merge branch 'Joe_M' into BranchBeforeRoomChange,Wed Mar 6 16:17
+20929814,JoeMulc,Animations Complete,Wed Mar 6 16:16
+7a027718,JoeMulc,Animation,Wed Mar 6 15:56
+1f3bef4b,JoeMulc,Pitchfork Stab Finished,Wed Mar 6 15:39
+6bf13734,Holly-2002,Texture & Forest,Wed Mar 6 15:21
+8f16e2a0,JoeMulc,cHANGES,Wed Mar 6 15:16
+57a43c46,JoeMulc,Scythe finished,Wed Mar 6 14:50
+a6454ca0,JoeMulc,Animation and weapon changes,Wed Mar 6 14:46
+d9045c80,Holly-2002,Texture UPDATE,Wed Mar 6 13:51
+73acf460,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' into Kieran_S,Wed Mar 6 12:34
+ba93037d,KIERAN STUART,Room Rearrange,Wed Mar 6 12:30
+4b409cca,JoeMulc,ShroomMesh ADded,Wed Mar 6 12:28
+08c8ec69,JoeMulc,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Mar 6 12:22
+cfe77995,JoeMulc,Merge branch 'Joe_M' into BranchBeforeRoomChange,Wed Mar 6 12:19
+bf7cbe14,ItsRifter,Make left branch trigger timer,Wed Mar 6 12:18
+a413ee72,JoeMulc,Fixes,Wed Mar 6 12:18
+be040a6d,ItsRifter,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Mar 6 12:05
+e487ff52,ItsRifter,Use new coin code,Wed Mar 6 11:59
+50d4ac85,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' into Kieran_S,Wed Mar 6 11:56
+ddb2aaab,KIERAN STUART,Asset Import,Wed Mar 6 11:56
+0d77e96e,JoeMulc,Merge branch 'BranchBeforeRoomChange' into Joe_M,Wed Mar 6 11:51
+3fa9b917,JoeMulc,Animations,Wed Mar 6 11:46
+7d265d0a,ItsRifter,Add rework files + correct room locations,Wed Mar 6 11:37
+2b172fde,Holly-2002,Animations TEST,Wed Mar 6 10:35
+6e4a1e5c,Holly-2002,Big Old UPDATE,Wed Mar 6 10:31
+ff49a936,JoeMulc,Pitchfork updated,Wed Mar 6 10:30
+49a181e8,ItsRifter,Coin pickup sounds with pitch,Wed Mar 6 10:15
+218e4b8a,Holly-2002,Leaning Tree UPDATE Texture,Wed Mar 6 10:09
+070234f0,JoeMulc,Lil,Tue Mar 5 15:43
+f50f3ffa,JoeMulc,Merge Errors Fixed,Tue Mar 5 15:36
+e2c43b43,JoeMulc,Merge branch 'Joe_M' into BranchBeforeRoomChange,Tue Mar 5 15:27
+10102c83,JoeMulc,Shovel Material,Tue Mar 5 15:25
+d78c3237,JoeMulc,Room stuff,Tue Mar 5 15:14
+1773a9d3,KIERAN STUART,Merge branch 'Kieran_S' into BranchBeforeRoomChange,Tue Mar 5 15:00
+ecffee79,KIERAN STUART,Dash Update, Dummies Added, Central Room Organised With Shop + Fishpond,Tue Mar 5 14:59
+df50de00,JoeMulc,More Gameloop,Tue Mar 5 14:52
+268f234c,JoeMulc,Gameloop Being implemented,Tue Mar 5 14:39
+0beb1cc0,JoeMulc,Knock back (Terrible),Tue Mar 5 13:28
+91ef36ec,JoeMulc,EnemyBaseFinished Working On Kockback,Tue Mar 5 11:47
+f891f728,JoeMulc,Enemy Overhaul started - gnome changed,Tue Mar 5 11:01
+168386e4,Holly-2002,Mushroom in room TEST,Tue Mar 5 10:56
+5978d299,Holly-2002,Imported Mushroom Tree 02,Tue Mar 5 10:50
+1647f904,Holly-2002,Update Room11NS.uasset,Fri Mar 1 09:11
+5880b743,Holly-2002,Shroom Room Test,Fri Mar 1 09:00
+4d22d0b1,JoeMulc,Forest overhaul,Wed Feb 28 17:22
+4a876c9e,JoeMulc,Spawns,Wed Feb 28 16:24
+6e223f9f,KIERAN STUART,Build Fixes,Wed Feb 28 15:27
+aaeb4902,JoeMulc,Scythe fixed,Wed Feb 28 14:15
+2daf60e8,JoeMulc,Spawns Fixed,Wed Feb 28 14:13
+70f295ed,KIERAN STUART,Fixes,Wed Feb 28 14:07
+e05d8d11,JoeMulc,Collision Fixes,Wed Feb 28 13:53
+81ce0fa1,Holly-2002,Imported Fountains,Wed Feb 28 13:25
+cdc21c3d,Holly-2002,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 13:10
+a116747f,Holly-2002,Gnome & Mushroom put on time out.,Wed Feb 28 13:10
+754728de,JoeMulc,Camera changes,Wed Feb 28 13:10
+134cdb0a,Holly-2002,Door material update,Wed Feb 28 13:09
+4de4efd5,Holly-2002,Dirt Material Change,Wed Feb 28 13:06
+4fe96097,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 13:04
+6caa33bf,KIERAN STUART,Mushroom Fixes Part 2,Wed Feb 28 13:04
+2a79d74c,KIERAN STUART,Mushroom Fix,Wed Feb 28 13:03
+15865202,Holly-2002,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 13:01
+f2afa745,Holly-2002,Moonlight,Wed Feb 28 13:01
+3eb78571,JoeMulc,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:57
+3a40d80c,JoeMulc,Weapon Slows,Wed Feb 28 12:56
+0e4eb9a7,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:52
+58f40026,Holly-2002,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:51
+458dd6c1,Holly-2002,Changed sky and textures,Wed Feb 28 12:50
+c32b2b1e,KIERAN STUART,Quick Fix,Wed Feb 28 12:50
+9e186b4f,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:48
+4d043712,KIERAN STUART,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:47
+801f7e73,Holly-2002,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:38
+5da00539,Holly-2002,Added Texture to Rooms,Wed Feb 28 12:37
+61fb8697,KIERAN STUART,Shovel Fix, Snail + Mushroom Damage,Wed Feb 28 12:37
+b01d9177,JoeMulc,More UI Fixes,Wed Feb 28 12:34
+79cba20c,Holly-2002,Merge branch 'BranchBeforeRoomChange' of https://github.com/ItsRifter/DES-310 into BranchBeforeRoomChange,Wed Feb 28 12:18
+e6cbaefb,Holly-2002,Fixed Dry Grass Texture & begun Room Changes,Wed Feb 28 12:17
+96b5b853,JoeMulc,UI Adjustment,Wed Feb 28 12:13
+fe8af35c,JoeMulc,Removed debug stuff,Wed Feb 28 12:03
+16836ad4,JoeMulc,Weapon Slow Added,Wed Feb 28 11:58
+16ce0d7d,Holly-2002,Stone textures added,Wed Feb 28 11:55
+d5ad8062,JoeMulc,Mound Mesh added,Wed Feb 28 11:22
+272dfb0a,JoeMulc,Start Of weapon slows,Wed Feb 28 11:16
+28108102,JoeMulc,Scythe slow added,Wed Feb 28 11:09
+2e3efa7b,JoeMulc,Hedgesa added to room with strecthed bushes,Wed Feb 28 10:52
+acca3d3e,Holly-2002,Hedges added to start area with fixed texture,Wed Feb 28 10:37
+0b42726c,Holly-2002,Hedge Material Fixed,Wed Feb 28 10:30
+f198187b,Holly-2002,Texture Saved,Wed Feb 28 10:00
+fb0086cc,Holly-2002,Textures added, need fixed,Wed Feb 28 09:58
+0631b781,JoeMulc,Weapons Changed - For sure a bug with the look at cursor,Tue Feb 27 17:13
+81bf6954,JoeMulc,Spawns Fixed,Tue Feb 27 16:33
+083a65e5,JoeMulc,Level Reload on death,Tue Feb 27 16:11
+57cb3cac,KIERAN STUART,HUD Fix,Tue Feb 27 16:00
+19656437,ItsRifter,Restore missing room props,Tue Feb 27 15:58
+de249043,KIERAN STUART,Merge remote-tracking branch 'origin/BranchBeforeRoomChange' into Kieran_S4,Tue Feb 27 15:58
+a70d352b,KIERAN STUART,Dash UI,Tue Feb 27 15:46
+61965b22,ItsRifter,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Feb 27 15:25
+67e9ad7d,ItsRifter,Rework Room blueprints,Tue Feb 27 15:21
+f5092148,JoeMulc,Weapon Pickups,Tue Feb 27 14:59
+aadbfd01,KIERAN STUART,Health UI Fix,Tue Feb 27 13:54
+66862b90,KIERAN STUART,Merge branch 'Kieran_S4',Tue Feb 27 13:17
+180adad8,KIERAN STUART,Flower Health UI Changes,Tue Feb 27 13:09
+95e4a48a,Holly-2002,Grass Floor Update 1,Tue Feb 27 13:06
+a6587289,Holly-2002,Grass Floor Added!!!,Tue Feb 27 12:49
+2116da37,Holly-2002,Holly's long awaited GitHub Fiasco,Tue Feb 27 12:46
+8e9a23e4,JoeMulc,Burrows added,Tue Feb 27 11:29
+13583ddb,ItsRifter,Functional gameplay loop Updated player movement - Can be restricted and is cleaner,Mon Feb 26 15:30
+db309bf2,JoeMulc,Frog Mesh added - Frog blueprint changed.,Mon Feb 26 14:10
+58214920,JoeMulc,Enemy Spawns mostly working. Warning added before enemy spawns.,Mon Feb 26 13:58
+10c00239,JoeMulc,Spawns fixed - some enemies spawn in the floor.,Sun Feb 25 18:41
+a884a8f0,JoeMulc,Minor Fixes,Sun Feb 25 18:10
+428a304b,JoeMulc,Infinite south rooms fixed,Sun Feb 25 17:56
+719d0f9c,JoeMulc,Enemy spawns changed a bit.,Sun Feb 25 17:41
+f5645338,JoeMulc,Merge branch 'RoomGenBranch',Sun Feb 25 01:05
+5fe730ba,JoeMulc,Spawns,Sun Feb 25 00:55
+6b231cf3,JoeMulc,Broken Push,Sun Feb 25 00:39
+8ea48393,JoeMulc,Rooms,Sun Feb 25 00:26
+42cdfdb3,JoeMulc,Locking complete,Sun Feb 25 00:14
+13defa39,JoeMulc,Doors lock and open on enemy death,Sat Feb 24 23:26
+47f0d18f,JoeMulc,Close on the doors,Sat Feb 24 23:07
+4af24a00,JoeMulc,Door locking in one room no functionality will get stuck.,Fri Feb 23 15:25
+1dca5bdd,JoeMulc,Snail Mesh re added,Fri Feb 23 14:55
+7c83dd50,JoeMulc,Snail Mesh added,Fri Feb 23 14:42
+283f7552,JoeMulc,Working on doors error where door gets destroyed but need location,Fri Feb 23 14:34
+ef475e12,ItsRifter,Part of gameplay loop for runs,Fri Feb 23 14:31
+a97e37bf,JoeMulc,Enemy health fixed,Fri Feb 23 13:45
+5a8e1a19,JoeMulc,Forest Tweaked,Wed Feb 21 17:16
+06778314,JoeMulc,Assets added,Wed Feb 21 17:05
+e87a072d,JoeMulc,Merge branch 'RoomGenBranch',Wed Feb 21 16:21
+f1b3c35b,JoeMulc,More merges,Wed Feb 21 16:20
+0beec64c,JoeMulc,More Merge,Wed Feb 21 16:20
+1b77aca6,ItsRifter,Add event dispatchers to gamemode,Wed Feb 21 16:20
+ab85755a,JoeMulc,Merge fixes,Wed Feb 21 16:17
+752634f2,JoeMulc,Merge branch 'Kieran_S3' into RoomGenBranch,Wed Feb 21 16:06
+9ab76337,ItsRifter,Fix room generation,Wed Feb 21 15:58
+360145af,ItsRifter,Update central room and gamemode,Wed Feb 21 15:18
+b37b4952,KIERAN STUART,Enemy Updates + Movement Speed,Wed Feb 21 14:51
+4a91e26f,ItsRifter,Update player health ui,Wed Feb 21 14:49
+4106e8ed,JoeMulc,Minor Changes,Wed Feb 21 14:05
+f640dee6,JoeMulc,Shovel Mesh Added,Wed Feb 21 13:54
+a49b3702,ItsRifter,Simplify & Clean up code,Wed Feb 21 12:53
+7806152b,JoeMulc,Enemy Spawns Added,Wed Feb 21 12:28
+605f19da,JoeMulc,Progress On Enemy Spawns,Wed Feb 21 11:35
+c4276bb4,JoeMulc,Merge branch 'RoomGenBranch',Wed Feb 21 10:46
+02921fb3,JoeMulc,Cleanup,Wed Feb 21 10:45
+1ff7b006,JoeMulc,Function Library cleanup,Wed Feb 21 10:41
+99ec0840,JoeMulc,Nav box nomal size,Tue Feb 20 15:55
+045fdc53,ItsRifter,Revert "Shop items",Tue Feb 20 15:50
+9ebcb4f7,ItsRifter,Revert "change gitignore",Tue Feb 20 15:50
+c235cc59,ItsRifter,change gitignore,Tue Feb 20 15:40
+03ec1039,KIERAN STUART,Mini Changes,Tue Feb 20 15:30
+d7f9b229,ItsRifter,Shop items,Tue Feb 20 15:28
+cf24bc17,JoeMulc,Small Additions,Tue Feb 20 15:25
+250c32b6,JoeMulc,Start of enemy spawning,Tue Feb 20 15:14
+81be0f3e,KIERAN STUART,Health System and Player Rotation On Click,Tue Feb 20 15:07
+8195dc36,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Feb 20 14:28
+d4acb1f6,KIERAN STUART,Added More Enemies,Tue Feb 20 14:27
+be49b9da,JoeMulc,Central has barrier now,Tue Feb 20 14:06
+99a3b819,JoeMulc,Cleanup,Tue Feb 20 14:04
+b52c6ad5,JoeMulc,Rabbit mesh added ROOM WILL NOT OVERLAP,Tue Feb 20 14:02
+cc0030c5,JoeMulc,Player fog added,Tue Feb 20 13:28
+e683fb48,JoeMulc,Merge branch 'RoomGenBranch',Tue Feb 20 13:23
+91fe8f34,JoeMulc,Forest Still,Tue Feb 20 13:22
+0668fadb,JoeMulc,Forest Added,Tue Feb 20 12:31
+7680ae15,JoeMulc,Forest Added (basic),Tue Feb 20 12:27
+5a5c1597,JoeMulc,Room Fixes,Tue Feb 20 12:15
+dc56139c,JoeMulc,Forest,Tue Feb 20 12:11
+51df02bf,JoeMulc,Background fades out,Tue Feb 20 11:59
+0289d9ae,KIERAN STUART,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Feb 20 11:01
+977ce99a,ItsRifter,Fix weapons from testing & cleanup,Tue Feb 20 10:48
+63bae6f7,ItsRifter,Bring shop changes into main,Tue Feb 20 09:48
+17a1d083,JoeMulc,Experimenting with forest and fog,Wed Feb 14 22:47
+2025dfec,JoeMulc,Changed default map,Wed Feb 14 22:07
+a63ccb55,JoeMulc,Playtest done,Wed Feb 14 15:37
+20f04eab,JoeMulc,Nav mesh changed,Wed Feb 14 15:27
+03313b87,KIERAN STUART,Update DefaultEngine.ini,Wed Feb 14 15:07
+734df55c,KIERAN STUART,Build1,Wed Feb 14 14:21
+41404c50,KIERAN STUART,Enemy Health + Knockback,Wed Feb 14 14:09
+fd647db2,KIERAN STUART,Revert "Merge branch 'Kieran_S'",Wed Feb 14 13:19
+8077076a,ItsRifter,Merge branch 'Kieran_S',Wed Feb 14 13:12
+f513a825,ItsRifter,Merge branch 'shop-currency',Wed Feb 14 13:08
+1f5d978f,ItsRifter,Merge remote-tracking branch 'origin/Kieran_S',Wed Feb 14 13:07
+0ccdcaa4,KIERAN STUART,Health Fix + Knockback,Wed Feb 14 13:05
+3dd2c67b,ItsRifter,commit missed files,Wed Feb 14 13:03
+acd442d8,ItsRifter,Coins,Wed Feb 14 13:01
+e834a626,JoeMulc,Room Gen done for playparty,Wed Feb 14 12:44
+0a0182d9,JoeMulc,Room collission finished,Wed Feb 14 12:37
+e53ba4be,JoeMulc,Collision Added,Wed Feb 14 12:07
+0efcbc52,JoeMulc,Rooms finished,Wed Feb 14 11:57
+e3c49918,JoeMulc,Room 3 done,Wed Feb 14 11:49
+5495b07a,JoeMulc,MoreRooms,Wed Feb 14 11:46
+e935ab56,JoeMulc,Room 4 - hollys room addded,Wed Feb 14 11:13
+f99ad329,JoeMulc,Room7 Complete,Wed Feb 14 10:54
+0e1c99ef,JoeMulc,Room6,Wed Feb 14 10:49
+b1188d55,JoeMulc,Room 2,Wed Feb 14 10:36
+bc08607b,ItsRifter,Start of currency,Wed Feb 14 08:56
+616fd07f,JoeMulc,Removed shadows from placeholder trees,Tue Feb 13 19:52
+8befa4c7,JoeMulc,Room Upgrades,Tue Feb 13 19:46
+c97c13f4,JoeMulc,Rooms,Tue Feb 13 19:36
+e9b3c7f7,JoeMulc,Room1 Prototype,Tue Feb 13 19:05
+fad07efb,JoeMulc,Brendan Assets,Tue Feb 13 18:01
+1572efc8,JoeMulc,Brendan assets added,Tue Feb 13 18:00
+2d166edc,JoeMulc,Minor Change,Tue Feb 13 16:46
+43489c67,JoeMulc,Floor,Tue Feb 13 16:40
+40d8eac2,JoeMulc,Minor Changes,Tue Feb 13 16:38
+aa5832fb,KIERAN STUART,Frog Changes,Tue Feb 13 16:34
+929913fd,JoeMulc,Fences re -added,Tue Feb 13 16:18
+ebfbb95e,Holly-2002,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Feb 13 15:03
+2ac7f6d8,MRTEF,Tobiasfuckabout,Tue Feb 13 15:03
+66fcf16a,JoeMulc,Fence,Tue Feb 13 14:58
+45f07ea3,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Tue Feb 13 14:48
+51d13f8f,JoeMulc,Room gen,Tue Feb 13 14:48
+1b304de5,JoeMulc,PLease god work,Tue Feb 13 14:48
+5e40c478,ItsRifter,Merge branch 'weapons',Tue Feb 13 14:41
+996bcfbe,ItsRifter,Quick scaling of dev room floor,Tue Feb 13 14:38
+4d5d0544,ItsRifter,Update weapons + projectile,Tue Feb 13 14:03
+f749fc09,Holly-2002,File_Name_Changes_Enviroment,Tue Feb 13 13:54
+3555a37e,ItsRifter,Change camera angle,Tue Feb 13 13:20
+acb54b79,ItsRifter,Wep cooldown + give wep cmd,Tue Feb 13 11:55
+12454343,JoeMulc,Room Generation Re-Added,Tue Feb 13 11:44
+b933312d,ItsRifter,Merge branch 'David_S',Tue Feb 13 10:14
+9139e383,ItsRifter,Merge branch 'Joe_M' into David_S,Tue Feb 13 10:12
+470e57a6,ItsRifter,Game state + fixes from organisation commit,Mon Feb 12 19:25
+2e043061,JoeMulc,Room Generation,Mon Feb 12 14:58
+83638c5b,ItsRifter,Reorganise folder/files and add gameplay state,Mon Feb 12 13:41
+c2ac1d3c,JoeMulc,Merge branch 'main' of https://github.com/ItsRifter/DES-310,Wed Feb 7 17:11
+3a6d278a,JoeMulc,Fog and camera fixed,Wed Feb 7 17:10
+f62e43ad,KIERAN STUART,Exponential height fog added,Wed Feb 7 16:56
+a0ab2878,KIERAN STUART,Update BP_Player.uasset,Wed Feb 7 16:51
+bd84e04b,ItsRifter,Merge branch 'Joe_M' into merge_all,Wed Feb 7 16:25
+8e71c68b,ItsRifter,Merge branch 'David_S' into merge_all,Wed Feb 7 16:23
+7ed6cf43,JoeMulc,Little camera adjustment,Wed Feb 7 16:22
+02eaf7b1,ItsRifter,Quick update to weapons,Wed Feb 7 16:21
+301e3499,JoeMulc,Merge,Wed Feb 7 16:21
+51aa78ea,JoeMulc,Merge,Wed Feb 7 16:10
+2eae041d,ItsRifter,Working slots,Wed Feb 7 15:32
+633c9247,ItsRifter,Fix weapon code crashing,Wed Feb 7 14:24
+e42eb0fe,ItsRifter,Start on wep slots + inventory,Wed Feb 7 13:44
+eca5e58d,JoeMulc,Room Gen,Wed Feb 7 13:30
+057b449d,JoeMulc,Room Generation,Wed Feb 7 12:46
+c75bce49,ItsRifter,Replace PlayerRef macro,Tue Feb 6 19:28
+7098e0a3,JoeMulc,Room Generation,Tue Feb 6 15:32
+746d3477,ItsRifter,Partial Shop UI,Tue Feb 6 15:29
+05bfb293,JoeMulc,Room Generation,Tue Feb 6 13:50
+34587bce,JoeMulc,Assets,Tue Feb 6 12:49
+ab661d71,ItsRifter,Shop with Shuffling,Tue Feb 6 12:22
+92cca2d2,JoeMulc,Room Generation,Tue Feb 6 11:55
+c5994780,JoeMulc,Room Generation Finished with branches.,Wed Jan 31 17:15
+3519e58b,JoeMulc,Room Gen,Wed Jan 31 17:09
+8a3e3c5d,JoeMulc,Room Gen little,Wed Jan 31 16:36
+ed2a53bb,JoeMulc,Room Generation,Wed Jan 31 16:12
+7e009a00,ItsRifter,Weapon stab attack,Wed Jan 31 15:25
+6641ca4d,JoeMulc,Room Generation,Wed Jan 31 13:51
+f49ab6c7,JoeMulc,Room Generation,Wed Jan 31 12:56
+2faad71c,ItsRifter,Made Weapon base + shovel,Wed Jan 31 12:16
+85c7013d,JoeMulc,Merge branch 'Joe_M' of https://github.com/ItsRifter/DES-310 into Joe_M,Wed Jan 31 11:27
+491bcd60,JoeMulc,Room Generation,Wed Jan 31 11:26
+b81343c1,ItsRifter,Added 2 attack types,Tue Jan 30 15:50
+b848fdb3,JoeMulc,Room Generation,Tue Jan 30 15:43
+c5a35333,JoeMulc,Room Generation,Tue Jan 30 15:19
+55b113b2,ItsRifter,Experiment on swing attacks,Mon Jan 29 15:42
+00d64cac,ItsRifter,Merge remote-tracking branch 'origin/Joe_M' into David_S,Sun Jan 28 12:23
+a4f7939f,JoeMulc,Room generation,Sat Jan 27 15:08
+877c3e1f,JoeMulc,Little push,Wed Jan 24 17:08
+37e51917,JoeMulc,RoomGeneration,Wed Jan 24 16:30
+3a027a66,JoeMulc,Room Generation with randomly selected rooms.,Wed Jan 24 15:46
+bda108ce,ItsRifter,Add spawn room prefab,Wed Jan 24 15:24
+bb498deb,ItsRifter,Merge branch 'Joe_M' into David_S,Wed Jan 24 14:55
+7ef6aff4,JoeMulc,Doors,Wed Jan 24 14:51
+c691cad3,ItsRifter,Merge branch 'Joe_M' into David_S,Wed Jan 24 14:46
+3ccccf40,JoeMulc,Room1 Debug,Wed Jan 24 14:46
+70c0bb51,JoeMulc,Room generation debugs.,Wed Jan 24 14:42
+e863fab6,JoeMulc,Room Generation,Wed Jan 24 14:24
+cd384f07,JoeMulc,test,Wed Jan 24 14:11
+bd9e2eab,JoeMulc,My repository,Wed Jan 24 13:59
+97a094a1,ItsRifter,Push unsaved files,Wed Jan 24 12:50
+3841e991,ItsRifter,Skill functionality + HUD with Health,Wed Jan 24 12:50
+9c63208d,ItsRifter,Added player BP,Wed Jan 24 10:33
+46c6083e,ItsRifter,Forgot to save last minute,Tue Jan 23 15:47
+d9e0ea53,ItsRifter,Base skills + health/speed,Tue Jan 23 15:47
+87a4fc15,ItsRifter,Unreal Files,Tue Jan 23 14:06
+8b99f073,ItsRifter,Initial commit,Tue Jan 23 14:00
