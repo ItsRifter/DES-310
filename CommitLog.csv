@@ -1,30 +1,32 @@
-30c17067,JoeMul,Final push - got those last couple bugs :),62 seconds ago
-1fe066c0,JoeMul,Gnome UI gone but fixes,17 minutes ago
-9e89fb1b,JoeMul,Merge branch 'BackupBranch',24 minutes ago
-45f11539,JoeMul,Final build,45 minutes ago
-6d95ecc1,JoeMul,Merge branch 'BackupBranch',54 minutes ago
-5426d8f6,JoeMul,boss fix,59 minutes ago
-0e46307e,JoeMul,cleanup,60 minutes ago
-033e502d,JoeMul,cleanup,68 minutes ago
-8d3bc00a,JoeMul,Cleanup,71 minutes ago
-bc6ec60a,JoeMul,Random Push,80 minutes ago
-f0e7a36d,JoeMul,Cleanup,84 minutes ago
-14fb50a1,JoeMul,Cleanup,2 hours ago
-9d6a445d,JoeMul,Cleanup,2 hours ago
-636b681a,JoeMul,Cleanup,2 hours ago
-ac49058c,JoeMul,Final Build,Mon 21:47
-f5cd8f2e,JoeMul,NameChanges,Mon 17:11
-6012b32f,JoeMul,References,Mon 16:19
-550383f8,JoeMul,Better names and ref,Mon 16:15
-4b61b27e,JoeMul,Commit log,Mon 11:58
-3f320509,JoeMulc,Light adjustment,Sat 21:47
-c7a363f1,JoeMulc,nanite added testing other stuff,Sat 20:08
-720a351a,JoeMulc,Disabled nanite,Fri 16:48
-eb4ddd56,JoeMulc,Music fix,Fri 16:40
-3af25667,JoeMulc,Working on shader complexity now.,Fri 16:28
-b5565bf0,JoeMulc,Lights fixed,Fri 15:19
-1f3c547f,JoeMulc,Working on performance,Fri 15:02
-ec5adb86,JoeMulc,Working on performance,Fri 14:10
+9550f240,JoeMul,Forgot to remove these,Tue Apr 30 11:14
+aab9d2b9,JoeMul,CommitLog,Tue Apr 30 11:11
+30c17067,JoeMul,Final push - got those last couple bugs :),Tue Apr 30 11:02
+1fe066c0,JoeMul,Gnome UI gone but fixes,Tue Apr 30 10:46
+9e89fb1b,JoeMul,Merge branch 'BackupBranch',Tue Apr 30 10:40
+45f11539,JoeMul,Final build,Tue Apr 30 10:18
+6d95ecc1,JoeMul,Merge branch 'BackupBranch',Tue Apr 30 10:09
+5426d8f6,JoeMul,boss fix,Tue Apr 30 10:05
+0e46307e,JoeMul,cleanup,Tue Apr 30 10:03
+033e502d,JoeMul,cleanup,Tue Apr 30 09:56
+8d3bc00a,JoeMul,Cleanup,Tue Apr 30 09:53
+bc6ec60a,JoeMul,Random Push,Tue Apr 30 09:44
+f0e7a36d,JoeMul,Cleanup,Tue Apr 30 09:39
+14fb50a1,JoeMul,Cleanup,Tue Apr 30 09:27
+9d6a445d,JoeMul,Cleanup,Tue Apr 30 09:17
+636b681a,JoeMul,Cleanup,Tue Apr 30 09:11
+ac49058c,JoeMul,Final Build,Mon Apr 29 21:47
+f5cd8f2e,JoeMul,NameChanges,Mon Apr 29 17:11
+6012b32f,JoeMul,References,Mon Apr 29 16:19
+550383f8,JoeMul,Better names and ref,Mon Apr 29 16:15
+4b61b27e,JoeMul,Commit log,Mon Apr 29 11:58
+3f320509,JoeMulc,Light adjustment,Sat Apr 27 21:47
+c7a363f1,JoeMulc,nanite added testing other stuff,Sat Apr 27 20:08
+720a351a,JoeMulc,Disabled nanite,Fri Apr 26 16:48
+eb4ddd56,JoeMulc,Music fix,Fri Apr 26 16:40
+3af25667,JoeMulc,Working on shader complexity now.,Fri Apr 26 16:28
+b5565bf0,JoeMulc,Lights fixed,Fri Apr 26 15:19
+1f3c547f,JoeMulc,Working on performance,Fri Apr 26 15:02
+ec5adb86,JoeMulc,Working on performance,Fri Apr 26 14:10
 b1de273d,KIERAN STUART,Update MoTGF_GameState.uasset,Wed Apr 24 17:06
 8f9fd1b3,KIERAN STUART,Fixes :),Wed Apr 24 16:41
 feae15c5,KIERAN STUART,Sound Changes and Player Spawn,Wed Apr 24 15:35
